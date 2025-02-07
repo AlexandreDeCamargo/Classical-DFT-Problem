@@ -1,8 +1,10 @@
 ## Continuous Normalizing Flows tutorials ## 
 
-In this repository you can check two Normalizing Flows Tutorials. 
+# LiH 1D 
 
-The three main references are,
+The first code exemplies the usage of Continuous Normalizing Flows in a 1D diatomic system. Starting with a single gaussian we merged it into a bimodal distribution. 
+
+Some of the references are,
 
 [Review on Normalizing Flows](https://arxiv.org/pdf/1912.02762) 
 
